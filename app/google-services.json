@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179569122932",
+    "firebase_url": "https://cloud-storage-71b76-default-rtdb.firebaseio.com",
+    "project_id": "cloud-storage-71b76",
+    "storage_bucket": "cloud-storage-71b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179569122932:android:f4d4b97a6240c0b017fb21",
+        "android_client_info": {
+          "package_name": "com.mobigic.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179569122932-96l7rutt0efrqqpda24avie7unoql4gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobigic.cloud",
+            "certificate_hash": "ee31ca57168844d7d8ef9bad6c5f907644bd1814"
+          }
+        },
+        {
+          "client_id": "179569122932-j0a1ogplvbrt68gdq51rg80mtrshunqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCto2seB0gLE0t4zCnR8Fq-oBjK4-dLEIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179569122932-j0a1ogplvbrt68gdq51rg80mtrshunqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
